@@ -12,7 +12,7 @@ Use [Large File Storage](https://git-lfs.github.com/)
 
 or 
 
-Download this file from the web page alone
+Download this [file](https://github.com/gnaWeinrE/NLP_FinalProject/blob/master/glove.6B.100d.txt) from the web page alone
 
 ## Commands
 
