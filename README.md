@@ -2,9 +2,21 @@
 
 **The glove.6B 100d file is required.**
 
-use this [link](http://nlp.stanford.edu/data/glove.6B.zip) to download the file
+Because this file exceeds the limit of single-file-size. It cannot be downloaded through webpage or git clone/git pull.
 
-To preprocess the original data,use command:
+Please use this [link](http://nlp.stanford.edu/data/glove.6B.zip) to download the file
+
+or
+
+Use [Large File Storage](https://git-lfs.github.com/)
+
+or 
+
+Download this file from the web page alone
+
+
+
+To preprocess the original data, use command:
 
 **python data.py**
 
