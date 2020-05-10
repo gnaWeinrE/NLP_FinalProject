@@ -2,17 +2,13 @@
 
 **The glove.6B 100d file is required.**
 
-Because this file exceeds the limit of single-file-size. It cannot be downloaded through webpage or git clone/git pull.
+Because this file exceeds the limit of single file size(100MB). It cannot be downloaded with the whole project through webpage or by using commands git clone/git pull.
 
-Please use this [link](http://nlp.stanford.edu/data/glove.6B.zip) to download the file
-
-or
-
-Use [Large File Storage](https://git-lfs.github.com/)
+Please use [Large File Storage](https://git-lfs.github.com/)
 
 or 
 
-Download this [file](https://github.com/gnaWeinrE/NLP_FinalProject/blob/master/glove.6B.100d.txt) from the web page alone
+Download this [file](https://github.com/gnaWeinrE/NLP_FinalProject/blob/master/glove.6B.100d.txt) from the web page alone.
 
 ## Commands
 
