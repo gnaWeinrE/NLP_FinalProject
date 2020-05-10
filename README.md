@@ -1,15 +1,15 @@
 To preprocess the original data,use 
 
-# python data.py
+**python data.py**
 
 To train the model
 
-# python train.py
+**python train.py**
 
 To predict a sentence use
 
-# python predict.py p He went in school in the morning
+**python predict.py p He went in school in the morning**
 
 To correct a sentence use
 
-# python predict.py c He went in school in the morning
+**python predict.py c He went in school in the morning**
